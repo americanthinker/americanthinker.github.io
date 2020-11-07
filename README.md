@@ -1,5 +1,9 @@
 ## Welcome to my Data Science portfolio homepage
 
+
+<p align="right">
+  <img align="right" src="/images/Profile_pic.jpg" width="400" title="Profile">
+</p> 
 You can use the [editor on GitHub](https://github.com/americanthinker/americanthinker.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
