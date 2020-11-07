@@ -1,9 +1,11 @@
 # Welcome to my Data Science portfolio homepage
 
 <style>
-.button {
+.green-button {
+  height:50px;
+  width:200px;
   background-color: green;
-  border: none;
+  border: 2px solid black;
   color: white;
   padding: 15px 32px;
   text-align: center;
@@ -11,6 +13,7 @@
   display: inline-block;
   font-size: 16px;
   margin: 4px 2px;
+  border-radius: 5px;
   cursor: pointer;
 }
 </style>
@@ -25,7 +28,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 # Projects - in Chronological Order
 
 ## [SOF Veteran Analysis](https://github.com/americanthinker/SOF_Veteran_Analysis) - October 2020
-<button class="button">Python: pandas, matplotlib</button>
+<button class="green-button">Python: pandas, matplotlib</button>
 
 <p align="right">
   <img align="right" src="/images/NavySEALs.png" width="180" title="Profile">
