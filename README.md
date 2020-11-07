@@ -1,4 +1,4 @@
-## Welcome to my Data Science portfolio homepage
+# Welcome to my Data Science portfolio homepage
 
 
 <p align="right">
@@ -10,7 +10,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 # Projects - in Chronological Order
 
-* October 2020
+#### * October 2020
 [SOF Veteran Analysis](https://github.com/americanthinker/SOF_Veteran_Analysis)
 
 <p align="right">
@@ -18,14 +18,15 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 </p> 
 Conducted rigorous analysis of the SOF Veteran community as represented by a partner 503c non-profit veteran service organization. Provide CEO and staff with information allowing them to make decisions to improve offerings to veterans, change marketing strategies, and allocate resources effectively. 
 
-* June 2019
-[Vietnam Casualties]()
+#### * June 2019
+[Vietnam Casualties](https://github.com/americanthinker/W209/tree/master/FinalProject)
 
 <p align="right">
   <img align="right" src="/images/ia_drang.png" width="180" title="Profile">
 </p> 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+An analysis of Vietnam War deaths over the entirety of the period of US involvement from 1954 - 1974.  Project analysis includes interactive timeline, highlights of interest, and a comprehensive demographic breakdown of the casualties. 
+
 
 ```markdown
 Syntax highlighted code block
