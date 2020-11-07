@@ -23,7 +23,10 @@ Conducted rigorous analysis of the SOF Veteran community as represented by a par
 </p> 
 
 An analysis of Vietnam War deaths over the entirety of the period of US involvement from 1954 - 1974.  Project analysis includes interactive timeline, highlights of interest, and a comprehensive demographic breakdown of the casualties. 
-
+  
+    
+      
+      
 
 ```markdown
 Syntax highlighted code block
