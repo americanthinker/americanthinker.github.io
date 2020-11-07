@@ -19,7 +19,7 @@ Conducted rigorous analysis of the SOF Veteran community as represented by a par
 ## [Vietnam Casualties](https://github.com/americanthinker/W209/tree/master/FinalProject) - June 2019
 
 <p align="right">
-  <img align="right" src="/images/ia_drang.png" height="150" width="180" title="Profile">
+  <img align="right" src="/images/ia_drang.png" height="100" width="180" title="Profile">
 </p> 
 
 An analysis of Vietnam War deaths over the entirety of the period of US involvement from 1954 - 1974.  Project analysis includes interactive timeline, highlights of interest, and a comprehensive demographic breakdown of the casualties. 
