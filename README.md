@@ -1,13 +1,4 @@
 # Welcome to my Data Science portfolio homepage
-
- <head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <!-- load MUI -->
-    <link href="//cdn.muicss.com/mui-0.10.3/css/mui.min.css" rel="stylesheet" type="text/css" />
-    <script src="//cdn.muicss.com/mui-0.10.3/js/mui.min.js"></script>
-  </head>
   
 
 <p align="right">
@@ -20,7 +11,6 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 # Projects - in Chronological Order
 
 ## [SOF Veteran Analysis](https://github.com/americanthinker/SOF_Veteran_Analysis) - October 2020
-<button class="mui-btn mui-btn--small mui-btn--raised">Python: pandas, matplotlib</button>
 <p align="right">
   <img align="right" src="/images/NavySEALs.png" width="180" title="Profile">
 </p> 
