@@ -11,7 +11,11 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 # Projects - in Chronological Order
 
 * October 2020
+<p
+  <img align="right" src="/images/Profile_pic.jpg" width="200" title="Profile">
+</p> 
 [SOF Veteran Analysis](https://github.com/americanthinker/SOF_Veteran_Analysis)
+Conducted rigorous analysis of the SOF Veteran community as represented by a partner 503c non-profit veteran service organization. Provide CEO and staff with information allowing them to make decisions to improve offerings to veterans, change marketing strategies, and allocate resources effectively. 
 
 * June 2019
 [Vietnam Casualties]()
