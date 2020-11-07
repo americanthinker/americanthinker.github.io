@@ -3,7 +3,7 @@
 <style>
 .green-button {
   height:50px;
-  width:200px;
+  width:10px;
   background-color: green;
   border: 2px solid black;
   color: white;
@@ -11,7 +11,7 @@
   text-align: center;
   text-decoration: none;
   display: inline-block;
-  font-size: 16px;
+  font-size: 10px;
   margin: 4px 2px;
   border-radius: 5px;
   cursor: pointer;
