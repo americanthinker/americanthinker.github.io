@@ -21,6 +21,10 @@ Conducted rigorous analysis of the SOF Veteran community as represented by a par
 * June 2019
 [Vietnam Casualties]()
 
+<p align="right">
+  <img align="right" src="/images/ia_drang.png" width="180" title="Profile">
+</p> 
+
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
