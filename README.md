@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to my Data Science portfolio homepage
 
 You can use the [editor on GitHub](https://github.com/americanthinker/americanthinker.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
