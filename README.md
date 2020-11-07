@@ -10,16 +10,14 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 # Projects - in Chronological Order
 
-#### * October 2020
-[SOF Veteran Analysis](https://github.com/americanthinker/SOF_Veteran_Analysis)
+#### [SOF Veteran Analysis](https://github.com/americanthinker/SOF_Veteran_Analysis) - October 2020
 
 <p align="right">
   <img align="right" src="/images/NavySEALs.png" width="180" title="Profile">
 </p> 
 Conducted rigorous analysis of the SOF Veteran community as represented by a partner 503c non-profit veteran service organization. Provide CEO and staff with information allowing them to make decisions to improve offerings to veterans, change marketing strategies, and allocate resources effectively. 
 
-#### * June 2019
-[Vietnam Casualties](https://github.com/americanthinker/W209/tree/master/FinalProject)
+#### [Vietnam Casualties](https://github.com/americanthinker/W209/tree/master/FinalProject) - June 2019
 
 <p align="right">
   <img align="right" src="/images/ia_drang.png" width="180" title="Profile">
