@@ -2,7 +2,7 @@
 
 
 <p align="right">
-  <img align="right" src="/images/Profile_pic.jpg" width="400" title="Profile">
+  <img align="right" src="/images/Profile_pic.jpg" width="200" title="Profile">
 </p> 
 You can use the [editor on GitHub](https://github.com/americanthinker/americanthinker.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
