@@ -24,27 +24,7 @@ Conducted rigorous analysis of the SOF Veteran community as represented by a par
 
 An analysis of Vietnam War deaths over the entirety of the period of US involvement from 1954 - 1974.  Project analysis includes interactive timeline, highlights of interest, and a comprehensive demographic breakdown of the casualties. 
   
-    
-      
-      
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
+   
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
