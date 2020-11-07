@@ -10,7 +10,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 # Projects - in Chronological Order
 
-## [SOF Veteran Analysis](https://github.com/americanthinker/SOF_Veteran_Analysis) - October 2020  `Python:pandas/matplotlib, Markdown, Excel`
+## [SOF Veteran Analysis](https://github.com/americanthinker/SOF_Veteran_Analysis) - October 2020  ##### `Python:pandas/matplotlib, Markdown, Excel`
 
 <p align="right">
   <img align="right" src="/images/NavySEALs.png" width="180" title="Profile">
