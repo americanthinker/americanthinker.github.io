@@ -30,7 +30,7 @@ An analysis of Vietnam War deaths over the entirety of the period of US involvem
 
 # Writings and Proposals
 - [Open Proposal to the NSW Community](https://drive.google.com/file/d/1Cq8HJYmnpNkTJRJ8PsgGOQFXk00aw1pO/view?usp=sharing)  
-- [Anchoring Effect on Navy Evals](https://drive.google.com/file/d/1Cq8HJYmnpNkTJRJ8PsgGOQFXk00aw1pO/view?usp=sharing)  
+- [Anchoring Effect on Navy Evals](https://drive.google.com/file/d/1KCpFlz9bISbxwB9HvU66mFRFxbZaJbHL/view?usp=sharing)  
 - [Secrecy vs. Security](https://github.com/americanthinker/americanthinker.github.io/blob/master/writings/Secrecy-vs-Security.md)
 - [Secrecy in a Representative Democracy - Overview](https://drive.google.com/file/d/1MDuJe5MJBqpp_GGpc-dvwEOo7ugAIl6K/view?usp=sharing)
 
