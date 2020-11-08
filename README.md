@@ -1,7 +1,8 @@
-# Welcome to my Data Science portfolio homepage
 <p align="right">
   <img align="right" src="/images/Profile_pic.jpg" width="180" title="Profile">
 </p>  
+
+# Welcome to my Data Science portfolio homepage
 
 You can use the [editor on GitHub](https://github.com/americanthinker/americanthinker.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
