@@ -15,8 +15,8 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
   <img align="right" src="/images/NavySEALs.png" width="180" title="Profile">
 </p> 
 Conducted rigorous analysis of the SOF Veteran community as represented by a partner 503c non-profit veteran service organization. Provide CEO and staff with information allowing them to make decisions to improve offerings to veterans, change marketing strategies, and allocate resources effectively.  
-
-
+<br />
+<br />
 ## [Vietnam Casualties](https://people.ischool.berkeley.edu/~chris.sanchez/viet.html) - June 2019
 [Annotated Timeline - Casualties by Month](https://people.ischool.berkeley.edu/~chris.sanchez/viet.html)  
 
@@ -26,14 +26,8 @@ Conducted rigorous analysis of the SOF Veteran community as represented by a par
 </p> 
 
 An analysis of Vietnam War deaths over the entirety of the period of US involvement from 1956 - 1975.  Project analysis includes interactive timeline, highlights of interest, and a comprehensive demographic breakdown of the casualties. 
-   
+<br />
+<br />
+<br />
+<br />
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/americanthinker/americanthinker.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
