@@ -2,13 +2,22 @@
   <img align="right" src="/images/Profile_pic.jpg" width="180" title="Profile">
 </p>  
 
-# Welcome to my Data Science portfolio homepage
+# Chris Sanchez: Data Science portfolio
 
-You can use the [editor on GitHub](https://github.com/americanthinker/americanthinker.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+About Me:
+- 20-year Special Operations veteran (Navy SEAL)
+- Masters Degree in Data Science (UC Berkeley)
+- Top Secrect/SCI security clearance
+- Currently living in the mountains of Utah (Lehi, UT)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Personal Interests:
+- Brazilian Jiu Jitsu
+- Snowboarding
+- Rock climbing
+- Weightlifting 
+- Deep Learning and statistics (no really)
 
-# Projects - in Chronological Order  
+# Projects  
 
 ## [SOF Veteran Analysis](https://github.com/americanthinker/SOF_Veteran_Analysis) - October 2020
 <p align="right">
@@ -17,7 +26,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 Conducted rigorous analysis of the SOF Veteran community as represented by a partner 503c non-profit veteran service organization. Provide CEO and staff with information allowing them to make decisions to improve offerings to veterans, change marketing strategies, and allocate resources effectively.  
 <br />
 
-## [Vietnam Casualties](https://people.ischool.berkeley.edu/~chris.sanchez/viet.html) - June 2019
+## [Vietnam Casualties](https://people.ischool.berkeley.edu/~chris.sanchez/viet.html)
 <p align="right">
   <img align="right" src="/images/ia_drang.png" height="120" width="180" title="Profile">
 </p>  
