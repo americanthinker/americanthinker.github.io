@@ -39,7 +39,7 @@ An analysis of Vietnam War deaths over the entirety of the period of US involvem
 - [Open Proposal to the NSW Community](https://drive.google.com/file/d/1Cq8HJYmnpNkTJRJ8PsgGOQFXk00aw1pO/view?usp=sharing)  
 Open address to the Naval Special Warfare community generally, and the NSWC Commodore specifically, to allow me access to SEAL accessions data so that I can conduct a study to find patterns in the data that might point to a probalistic model for recruiting purposes. 
 - [Anchoring Effect on Navy Evals](https://drive.google.com/file/d/1KCpFlz9bISbxwB9HvU66mFRFxbZaJbHL/view?usp=sharing)  
-Proposal to adjust how performance rankings are conducted in the Navy that is more fair, less biased, and reduces the "anchoring effect".
+Proposal to adjust how performance rankings are conducted in the Navy that is less biased, and reduces the "anchoring effect".
 - [Secrecy vs. Security](https://github.com/americanthinker/americanthinker.github.io/blob/master/writings/Secrecy-vs-Security.md)  
 Blog post on the discussion of the important balance between secrecy and security in a representative democracy.
 - [Secrecy in a Representative Democracy - Overview](https://drive.google.com/file/d/1MDuJe5MJBqpp_GGpc-dvwEOo7ugAIl6K/view?usp=sharing)
