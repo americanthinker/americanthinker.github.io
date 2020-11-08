@@ -5,8 +5,10 @@
 Almost eight years ago on May 2nd, 2011, at 11:35pm Eastern Time, former President Barak Obama unfolded [Operation NEPTUNE SPEAR](https://www.arcgis.com/apps/MapJournal/index.html?appid=b2ae7eee15c846e2844c38d6a742e43e) to the world:
 
   *“…the United States has conducted an operation that killed Osama bin Laden, the leader of al-Qaeda, and a terrorist who's responsible for the murder of thousands of innocent men, women, and children.”*
-  
-![Neptune Spear Command Center](https://github.com/americanthinker/W209/blob/master/NSCommandCenter.png)
+
+<p align="center">
+  <img align="center" src="https://github.com/americanthinker/W209/blob/master/NSCommandCenter.png" width="400" title="Profile">
+</p> 
 	
 At the time, the American public was aware that the US was engaged in combat operations in Afghanistan, but the whereabouts of Osama bin Laden—including whether he was alive or dead—were unknown.  The announcement by President Obama confirmed to the American public that Osama bin Laden: 
 
