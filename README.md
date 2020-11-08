@@ -17,7 +17,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 Conducted rigorous analysis of the SOF Veteran community as represented by a partner 503c non-profit veteran service organization. Provide CEO and staff with information allowing them to make decisions to improve offerings to veterans, change marketing strategies, and allocate resources effectively. 
 
 ## [Vietnam Casualties](https://people.ischool.berkeley.edu/~chris.sanchez/viet.html) - June 2019
-[Annotated Timeline]((https://people.ischool.berkeley.edu/~chris.sanchez/viet.html)
+[Annotated Timeline](https://people.ischool.berkeley.edu/~chris.sanchez/viet.html)
 [Presentation in Tableau](https://americanthinker.github.io/vietnam_war_project.github.io/#/start-slide)
 <p align="right">
   <img align="right" src="/images/ia_drang.png" height="100" width="180" title="Profile">
