@@ -16,7 +16,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 </p> 
 Conducted rigorous analysis of the SOF Veteran community as represented by a partner 503c non-profit veteran service organization. Provide CEO and staff with information allowing them to make decisions to improve offerings to veterans, change marketing strategies, and allocate resources effectively. 
 
-## [Vietnam Casualties](https://github.com/americanthinker/W209/tree/master/FinalProject) - June 2019
+## [Vietnam Casualties](https://people.ischool.berkeley.edu/~chris.sanchez/viet.html) - June 2019
 
 <p align="right">
   <img align="right" src="/images/ia_drang.png" height="100" width="180" title="Profile">
