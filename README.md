@@ -18,12 +18,11 @@ Conducted rigorous analysis of the SOF Veteran community as represented by a par
 <br />
 
 ## [Vietnam Casualties](https://people.ischool.berkeley.edu/~chris.sanchez/viet.html) - June 2019
-[Annotated Timeline - Casualties by Month](https://people.ischool.berkeley.edu/~chris.sanchez/viet.html)  
-
-[Full Presentation in Tableau](https://americanthinker.github.io/vietnam_war_project.github.io/#/start-slide)
 <p align="right">
   <img align="right" src="/images/ia_drang.png" height="100" width="180" title="Profile">
 </p> 
+[Annotated Timeline - Casualties by Month](https://people.ischool.berkeley.edu/~chris.sanchez/viet.html)  
+[Full Presentation in Tableau](https://americanthinker.github.io/vietnam_war_project.github.io/#/start-slide)
 
 An analysis of Vietnam War deaths over the entirety of the period of US involvement from 1956 - 1975.  Project analysis includes interactive timeline, highlights of interest, and a comprehensive demographic breakdown of the casualties. 
 <br />
