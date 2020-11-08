@@ -20,7 +20,8 @@ Conducted rigorous analysis of the SOF Veteran community as represented by a par
 ## [Vietnam Casualties](https://people.ischool.berkeley.edu/~chris.sanchez/viet.html) - June 2019
 <p align="right">
   <img align="right" src="/images/ia_drang.png" height="100" width="180" title="Profile">
-</p> 
+</p>  
+
 [Annotated Timeline - Casualties by Month](https://people.ischool.berkeley.edu/~chris.sanchez/viet.html)  
 [Full Presentation in Tableau](https://americanthinker.github.io/vietnam_war_project.github.io/#/start-slide)
 
