@@ -27,6 +27,14 @@ Conducted rigorous analysis of the SOF Veteran community as represented by a par
 
 An analysis of Vietnam War deaths over the entirety of the period of US involvement from 1956 - 1975.  Project analysis includes interactive timeline, highlights of interest, and a comprehensive demographic breakdown of the casualties. 
 <br />
+
+# Writings and Proposals
+### [Open Proposal to the NSW Community](https://drive.google.com/file/d/1Cq8HJYmnpNkTJRJ8PsgGOQFXk00aw1pO/view?usp=sharing)  
+### [Anchoring Effect on Navy Evals](https://drive.google.com/file/d/1KCpFlz9bISbxwB9HvU66mFRFxbZaJbHL/view?usp=sharing)  
+
+
+
+
 <br />
 <br />
 <br />
