@@ -1,6 +1,6 @@
 <p align="right">
-  <img align="right" src="/images/Profile_pic.jpg" width="180" title="Profile">
-</p>  
+  <img align="right" src="/images/Profile_pic.jpg" width="240" title="Profile">
+</p> 
 
 # Chris Sanchez, MS
 ## Data Science portfolio
