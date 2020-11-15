@@ -6,10 +6,10 @@
 ## Data Science portfolio
 
 About Me:
-- 20-year Special Operations veteran (Navy SEAL)
-- Masters Degree in Data Science (UC Berkeley)
-- Top Secrect/SCI security clearance
-- Currently living in the mountains of Utah (Lehi, UT)
+- 20-year Special Operations veteran - Navy SEAL
+- Masters Degree in Data Science - UC Berkeley
+- Active security clearance - TS/SCI
+- Currently living in the mountains of Utah - Lehi, UT
 
 
 # Projects  
