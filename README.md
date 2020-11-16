@@ -15,9 +15,12 @@ About Me:
 # Projects  
 
 ## [SOF Veteran Analysis](https://github.com/americanthinker/SOF_Veteran_Analysis)
+
 <p align="right">
-  <img align="right" src="/images/NavySEALs.png" width="180" title="Profile">
-</p> 
+  <a href="https://github.com/americanthinker/SOF_Veteran_Analysis">
+  <img align="right" border="0" src="/images/NavySEALs.png" width="180" title="SOF">
+  </a>
+</p>
 Conducted rigorous analysis of the SOF Veteran community as represented by a partner 503c non-profit veteran service organization. Provide CEO and staff with information allowing them to make decisions to improve offerings to veterans, change marketing strategies, and allocate resources effectively.  
 <br />
 
