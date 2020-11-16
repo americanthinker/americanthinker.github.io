@@ -26,7 +26,9 @@ Conducted rigorous analysis of the SOF Veteran community as represented by a par
 
 ## [Vietnam Casualties](https://people.ischool.berkeley.edu/~chris.sanchez/viet.html)
 <p align="right">
-  <img align="right" src="/images/ia_drang.png" height="120" width="180" title="Profile">
+  <a href="https://people.ischool.berkeley.edu/~chris.sanchez/viet.html">
+  <img align="right" src="/images/ia_drang.png" height="120" width="180" title="Ia Drang">
+  </a>
 </p>  
 
 [Annotated Timeline - Casualties by Month](https://people.ischool.berkeley.edu/~chris.sanchez/viet.html)  
