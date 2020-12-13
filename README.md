@@ -20,8 +20,8 @@ About Me:
   <img align="right" border="0" src="/images/membership.png" width="180" title="Analytics Platform">
   </a>
 </p>  
-Built an analytics platform for the CEO of Elite Meet (non-profit veteran's service organization).  Project involved entirety of Data Lifecycle, from data acquistion/ingestion all the way through providing self-serve analytics at the end user's fingertips.  Built on the Python Dash framework. 
-<br />. 
+Built an analytics platform for the CEO of non-profit veteran's service organization.  Project involved entirety of Data Lifecycle, from data acquistion/ingestion all the way through providing self-serve analytics at the end user's fingertips.  Built on the Python Dash framework. 
+<br />
 
 ## [SOF Veteran Analysis](https://github.com/americanthinker/SOF_Veteran_Analysis)
 
