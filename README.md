@@ -13,6 +13,13 @@ About Me:
 
 
 # Projects  
+## [Analytics Platform for Elite Meet CEO](https://github.com/americanthinker/dash-app-ceo-dashboard/blob/master/README.md). 
+
+<p align="right">
+  <a href="https://github.com/americanthinker/dash-app-ceo-dashboard/blob/master/README.md">
+  <img align="right" border="0" src="/images/NavySEALs.png" width="180" title="Analytics Platform">
+  </a>
+</p> 
 
 ## [SOF Veteran Analysis](https://github.com/americanthinker/SOF_Veteran_Analysis)
 
