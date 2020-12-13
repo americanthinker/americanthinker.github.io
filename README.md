@@ -13,7 +13,7 @@ About Me:
 
 
 # Projects  
-## [Analytics Platform for Elite Meet CEO](https://github.com/americanthinker/dash-app-ceo-dashboard/blob/master/README.md). 
+## [Analytics Platform for non-profit CEO](https://github.com/americanthinker/dash-app-ceo-dashboard/blob/master/README.md) 
 
 <p align="right">
   <a href="https://github.com/americanthinker/dash-app-ceo-dashboard/blob/master/README.md">
