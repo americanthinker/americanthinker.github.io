@@ -23,10 +23,10 @@ About Me:
 Built an analytics platform for the CEO of non-profit veteran's service organization.  Project involved entirety of Data Lifecycle, from data acquistion/ingestion all the way through providing self-serve analytics at the end user's fingertips.  Built on the Python Dash framework. 
 <br />
 
-## [SOF Veteran Analysis](https://github.com/americanthinker/SOF_Veteran_Analysis)
+## [SOF Veteran Analysis](https://github.com/americanthinker/SOF_Veteran_Analysis/blob/master/README.md)
 
 <p align="right">
-  <a href="https://github.com/americanthinker/SOF_Veteran_Analysis">
+  <a href="https://github.com/americanthinker/SOF_Veteran_Analysis/blob/master/README.md">
   <img align="right" border="0" src="/images/NavySEALs.png" width="180" title="SOF">
   </a>
 </p>
