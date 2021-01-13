@@ -13,6 +13,17 @@ About Me:
 
 
 # Projects  
+
+## [Dental Patient Churn Prediction](https://github.com/americanthinker/dentalproject)
+
+<p align="right">
+  <a href="https://github.com/americanthinker/dentalproject">
+  <img align="right" border="0" src="/images/membership.png" width="180" title="Churn Prediction">
+  </a>
+</p>  
+Built an analytics platform for the CEO of non-profit veteran's service organization.  Project involved entirety of Data Lifecycle, from data acquistion/ingestion all the way through providing self-serve analytics at the end user's fingertips.  Built on the Python Dash framework. 
+<br/>
+
 ## [Analytics Platform for non-profit CEO](https://github.com/americanthinker/dash-app-ceo-dashboard/blob/master/README.md) 
 
 <p align="right">
@@ -21,7 +32,7 @@ About Me:
   </a>
 </p>  
 Built an analytics platform for the CEO of non-profit veteran's service organization.  Project involved entirety of Data Lifecycle, from data acquistion/ingestion all the way through providing self-serve analytics at the end user's fingertips.  Built on the Python Dash framework. 
-<br />
+<br/>
 
 ## [SOF Veteran Analysis](https://github.com/americanthinker/SOF_Veteran_Analysis/blob/master/README.md)
 
