@@ -21,7 +21,7 @@ About Me:
   <img align="right" border="0" src="/images/churn.png" width="180" title="Churn Prediction">
   </a>
 </p>  
-Built an analytics platform for the CEO of non-profit veteran's service organization.  Project involved entirety of Data Lifecycle, from data acquistion/ingestion all the way through providing self-serve analytics at the end user's fingertips.  Built on the Python Dash framework. 
+Provided consulting work to the CEO of a Private Equity backed dental practice.  Deliverables included a deployed patient churn prediction model and a prioritized patient re-contact list (based on customer segmentation) embedded into staff daily workflow.  Estimated savings of $30K per year for the practice.  
 <br/>
 
 ## [Analytics Platform for non-profit CEO](https://github.com/americanthinker/dash-app-ceo-dashboard/blob/master/README.md) 
