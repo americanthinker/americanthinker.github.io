@@ -18,7 +18,7 @@ About Me:
 
 <p align="right">
   <a href="https://github.com/americanthinker/dentalproject">
-  <img align="right" border="0" src="/images/membership.png" width="180" title="Churn Prediction">
+  <img align="right" border="0" src="/images/churn.png" width="180" title="Churn Prediction">
   </a>
 </p>  
 Built an analytics platform for the CEO of non-profit veteran's service organization.  Project involved entirety of Data Lifecycle, from data acquistion/ingestion all the way through providing self-serve analytics at the end user's fingertips.  Built on the Python Dash framework. 
