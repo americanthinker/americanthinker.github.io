@@ -47,11 +47,12 @@ Conducted rigorous analysis of the SOF Veteran community as represented by a par
 ## [Vietnam War Casualties](https://americanthinker.github.io/vietnam_war_project.github.io/#/start-slide)
 <p align="right">
   <a href="https://americanthinker.github.io/vietnam_war_project.github.io/#/start-slide">
-  <img align="right" src="/images/ia_drang.png" height="120" width="180" title="Ia Drang">
+  <img align="right" src="/images/ia_drang.png" width="180" title="Ia Drang">
   </a>
 </p>  
 
 An analysis of Vietnam War deaths over the entirety of the period of US involvement from 1956 - 1975.  Project analysis includes interactive timeline, highlights of interest, and a comprehensive demographic breakdown of the casualties. 
+<br/>
 <br/>
 
 
