@@ -8,8 +8,7 @@
 About Me:
 - Special Operations veteran - Navy SEAL
 - Masters Degree in Data Science - UC Berkeley
-- Active security clearance - TS/SCI
-- Currently living in the mountains of Utah - Lehi, UT
+- Active security clearance
 
 
 # Projects  
